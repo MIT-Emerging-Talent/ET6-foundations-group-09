@@ -4,6 +4,7 @@
 A module for converting temperatures between Celsius and Fahrenheit.
 Module contents:
     - celsius_to_fahrenheit: converts a temperature from Celsius to Fahrenheit.
+
 Created on 30 12 2024
 @author: Terry Aziaba
 """
